@@ -1,1 +1,1 @@
-Projekt ma na celu udostępnienie poprawionej polonizacja gry 7 Days To Die.
+Projekt ma na celu udostępnienie poprawionej polonizacji gry 7 Days To Die.
